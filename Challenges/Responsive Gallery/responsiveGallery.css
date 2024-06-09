@@ -92,7 +92,7 @@ max-width: 100%;
 .overlay p.hidden{
     position: absolute;
     top: 90% !important;
-color: #3185FC;
+color: #80FFDB;
 font-size: 15px;
 opacity: 1;
 visibility: hidden;

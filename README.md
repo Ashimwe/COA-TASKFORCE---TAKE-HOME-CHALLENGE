@@ -1,7 +1,7 @@
 # COA-TASKFORCE---TAKE-HOME-CHALLENGE
 This repository contains folders which contain files which contain program codes which contain lots of brilliance about the 02 June 2024 COA TASKFORCE - TAKE HOME CHALLENGE.
 This folder consists of three subfolders and this README file.
--Each subfolder has a ".htm" file,For experimentation on how the code works and layout demonstration if opened in a local browser.
+-Each subfolder has a ".htm" file(expect from arrayMap),For experimentation on how the code works and layout demonstration if opened in a local browser.
 -Starting by the first folder "Responsive Gallery" that contains files that structure a responsive gallery.Here's a quick explanation on its 1 subfolder and 4 files:
 
 1)First up it's the "responsiveGallery.htm" file with HTML codes to experimentate how the code works as stated above and for layout demonstration.

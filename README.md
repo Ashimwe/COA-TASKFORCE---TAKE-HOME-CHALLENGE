@@ -23,7 +23,7 @@ The conditions for those transformations are:
 -stringTransform has "stringTransform.htm" to put the "stringTransform.js" codes in action.
 
 -Our last folder is the "arrayMap" folder that was supposed to check if in an array there exists a subarray such that the elements of that subarray add up to a given target number.Unfortunately,turns out that even I have limits.But well yeah...the best one can do is try and that's what I did.
-So in the "arrayMap" folder you'll find in two files: "arrayMap.htm" for demonstration as well as "arrayMap.js" being the JavaScript code used to try.
+So in the "arrayMap" folder you'll find in a file "arrayMap.js".Run it in your favored interpreter.
 
  And so yeah that wraps the COA-TASKFORCE---TAKE-HOME-CHALLENGE up.And yes of course in it,you'll find in this READ ME FILE too.
  In addition,there're a few comments in files with program codes that'd provide more information if you open them in a code editor.

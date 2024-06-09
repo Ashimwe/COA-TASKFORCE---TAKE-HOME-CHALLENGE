@@ -9,8 +9,8 @@ function hover1(){
     const img = document.querySelector('#imageContainer1 img');
     const hidden = document.querySelector("#imageContainer1 .hidden");
     const overlay = document.querySelector("#imageContainer1 .overlay");
-    img.style.filter =  "grayscale(100%) blur(5px)";
-    img.style.transform = "scale(0.98)";
+    img.style.filter =  "grayscale(100%) blur(3px)";
+    img.style.transform = "scale(1.05)";
     hidden.style.visibility = "visible";
     overlay.style.bottom = "60px";
 };
@@ -30,8 +30,8 @@ function hover2(){
     const img = document.querySelector('#imageContainer2 img');
     const hidden = document.querySelector("#imageContainer2 .hidden");
     const overlay = document.querySelector("#imageContainer2 .overlay");
-    img.style.filter =  "grayscale(100%) blur(5px)";
-    img.style.transform = "scale(0.98)";
+    img.style.filter =  "grayscale(100%) blur(3px)";
+    img.style.transform = "scale(1.05)";
     hidden.style.visibility = "visible";
     overlay.style.bottom = "60px";
 };
@@ -52,8 +52,8 @@ function hover3(){
     const img = document.querySelector('#imageContainer3 img');
     const hidden = document.querySelector("#imageContainer3 .hidden");
     const overlay = document.querySelector("#imageContainer3 .overlay");
-    img.style.filter =  "grayscale(100%) blur(5px)";
-    img.style.transform = "scale(0.98)";
+    img.style.filter =  "grayscale(100%) blur(3px)";
+    img.style.transform = "scale(1.05)";
     hidden.style.visibility = "visible";
     overlay.style.bottom = "60px";
 };
@@ -73,8 +73,8 @@ function hover4(){
     const img = document.querySelector('#imageContainer4 img');
     const hidden = document.querySelector("#imageContainer4 .hidden");
     const overlay = document.querySelector("#imageContainer4 .overlay");
-    img.style.filter =  "grayscale(100%) blur(5px)";
-    img.style.transform = "scale(0.98)";
+    img.style.filter =  "grayscale(100%) blur(3px)";
+    img.style.transform = "scale(1.05)";
     hidden.style.visibility = "visible";
     overlay.style.bottom = "60px";
 };

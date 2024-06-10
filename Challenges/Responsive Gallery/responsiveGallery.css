@@ -74,7 +74,7 @@ img{
     text-align: left;
     max-width: 213px;
     height: 76px;
-    margin-left: 0;
+    margin-top: 0;
 }
 .overlay p
 {
@@ -91,7 +91,7 @@ max-width: 100%;
 }
 .overlay p.hidden{
     position: absolute;
-    top: 90% !important;
+    top: 90%;
 color: #80FFDB;
 font-size: 15px;
 opacity: 1;
@@ -119,11 +119,13 @@ transform: translateY(3px);
     }
     .overlay h2{
         transform: scaleX(0.7);
-        text-align: left;
     }
     .overlay p{
         transform: scaleX(0.7);
         text-align: left;
         white-space: nowrap;
+    }
+    .overlay p.hidden{
+        top: 100%;
     }
 }

@@ -114,6 +114,9 @@ transform: translateY(3px);
 }
 /*for tablets */
 @media  screen and (max-width: 768px){
+    .overlay{
+        left: 0px;
+    }
     .overlay h2{
         transform: scaleX(0.7);
         text-align: left;
@@ -121,5 +124,6 @@ transform: translateY(3px);
     .overlay p{
         transform: scaleX(0.7);
         text-align: left;
+        white-space: nowrap;
     }
 }
